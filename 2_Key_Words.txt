@@ -1,0 +1,26 @@
+02 - Data Types For Data Science In Python.
+Key_Words:
+
+** Chapter_01.
+1. Container Sequences, Datatypes, List, Tuples, sets, Dictionaries.
+2. mutable, immutable, loop.
+3. List append, pop, index, sorted.
+4. Tuple, zip, Enumerating.
+5. Set, add, update, discard, union, intersection, difference.
+
+** Chapter_02.
+1. Dictionaries, key, value, get, del, pop.
+2. items, csv.reader, open. 
+
+** Chapter_03.
+1. Counter module, most_common.
+2. defauldict module.
+3. Orderdict Module.
+4. namedtuple Module.
+
+** Chapter_04.
+1. datetime Module, strptime, time formats, strf time, isoformat.
+2. now, utcnow, timezone module, tzinfo.
+3. timedelta module.
+
+
